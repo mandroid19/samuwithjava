@@ -1,7 +1,7 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file vi.hpp
+ * @file VisualImaginery.java
  * @author  Norbert Bátfai <nbatfai@gmail.com>
  * @version 0.0.1
  *
